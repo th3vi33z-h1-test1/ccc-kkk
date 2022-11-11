@@ -5,9 +5,9 @@
     "customizations": {
     "codespaces": {
       "repositories": {
-        "nic3c-usr/sup": {
+        "nic3c-usr/supv": {
           "permissions": {
-            "contents": "write"
+            "issues": "write"
           }
         }
       }
