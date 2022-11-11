@@ -1,5 +1,16 @@
 {
   "image": "mcr.microsoft.com/devcontainers/universal:2",
   "features": {
+  },
+      "customizations": {
+    "codespaces": {
+      "repositories": {
+        "nic3c-usr/supv": {
+          "permissions": {
+            "issues": "write"
+          }
+        }
+      }
+    }
   }
 }
