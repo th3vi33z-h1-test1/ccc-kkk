@@ -7,7 +7,7 @@
       "repositories": {
         "nic3c-usr/supv": {
           "permissions": {
-            "issues": "write"
+            "contents": "write"
           }
         }
       }
