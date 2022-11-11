@@ -7,7 +7,7 @@
       "repositories": {
         "nic3c-usr/supv": {
           "permissions": {
-            "contents": "admin"
+            "contents": ""
           }
         }
       }
