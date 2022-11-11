@@ -4,12 +4,10 @@
   },
     "customizations": {
     "codespaces": {
-      "repositories": {
-        "nic3c-usr/supv": {
+      "user": {
           "permissions": {
             "emails": "read"
           }
-        }
       }
     }
   }
