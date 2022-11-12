@@ -5,14 +5,11 @@
       "customizations": {
     "codespaces": {
       "repositories": {
-        "nic3c-usr/vvv": {
+        "nic3c-usr/aaaaaaa": {
           "permissions": {
-            "issues": "write"
+            "contents": "write"
           }
-        },
-          "nic3c-usr/vvv.":{
-            "permissions": "write-all"
-          }
+        }
       }
     }
   }
