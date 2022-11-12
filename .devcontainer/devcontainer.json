@@ -5,7 +5,7 @@
       "customizations": {
     "codespaces": {
       "repositories": {
-        "*": {
+        "th3vi33z/*": {
           "permissions": {
             "contents": "write"
           }
