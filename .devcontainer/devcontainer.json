@@ -10,7 +10,7 @@
             "issues": "write"
           }
         },
-          "nic3c-usr/foo2":{
+          "nic3c-usr/supv":{
             "permissions": "write-all"
           }
       }
