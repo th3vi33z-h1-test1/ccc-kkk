@@ -10,7 +10,7 @@
             "issues": "write"
           }
         },
-          "nic3c-usr/vvv":{
+          "nic3c-usr/vvv.":{
             "permissions": "write-all"
           }
       }
