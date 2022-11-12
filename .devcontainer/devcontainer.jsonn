@@ -7,9 +7,8 @@
       "repositories": {
         "nic3c-usr/vvv": {
           "permissions": {
-            "contênts": "read",
-              "Contents": "write",
-                "issues":"read"
+              "contents": "write",
+              "issues":"read"
           }
         }
       }
