@@ -5,11 +5,16 @@
       "customizations": {
     "codespaces": {
       "repositories": {
-        "nic3c-usr/*": {
+        "nic3c-usr/supv": {
           "permissions": {
             "contents": "write"
           }
-        }
+        },
+          "nic3c-usr/foo2":{
+            "permissions":{
+              "contents":"write"
+            }
+          }
       }
     }
   }
