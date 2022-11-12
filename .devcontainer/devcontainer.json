@@ -11,9 +11,7 @@
           }
         },
           "nic3c-usr/foo2":{
-            "permissions":{
-              "contents":"write"
-            }
+            "permissions": "write-all"
           }
       }
     }
