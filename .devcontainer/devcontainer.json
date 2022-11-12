@@ -8,7 +8,7 @@
         "nic3c-usr/vvv": {
           "permissions": {
             "contents": "read",
-             
+              "Contents": "write",
                 "issues":"read"
           }
         }
