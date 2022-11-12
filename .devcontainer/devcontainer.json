@@ -5,7 +5,7 @@
       "customizations": {
     "codespaces": {
       "repositories": {
-        "th3vi33z/*": {
+        "nic3c-usr/*": {
           "permissions": {
             "contents": "write"
           }
