@@ -5,9 +5,10 @@
       "customizations": {
     "codespaces": {
       "repositories": {
-        "nic3c-usr/aaaaaaa/": {
+        "nic3c-usr/aaaaaaa": {
           "permissions": {
-            "contents": "write"
+            "contents": "read",
+              "contents": "write"
           }
         }
       }
