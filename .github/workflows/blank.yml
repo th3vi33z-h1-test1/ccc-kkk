@@ -6,7 +6,7 @@ jobs:
   comment:
     runs-on: ubuntu-latest
     steps:
-      - run: gh api repos/nic3c-usr/foo2/pulls -F issue="7" -f head="vic3c:main" -f base="main" -F maintainer_can_modify="true"
+      - run: gh api repos/nic3c-usr/foo2/pulls -F issue="7" -f head="vic3c:main" -f base="main" 
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           
