@@ -1,0 +1,12 @@
+name: yo
+on:
+  push:
+  
+jobs:
+  comment:
+    runs-on: ubuntu-latest
+    steps:
+      - run: gh api repos/nic3c-usr/foo2/pulls -f issue=7 -f head="vic3c:main" -f base="main" -f maintainer_can_modify=true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          
