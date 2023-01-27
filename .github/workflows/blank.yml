@@ -4,6 +4,6 @@ on:
   
 jobs:
   comment:
-    runs-on: [self-hosted, linux, X64]
+    runs-on: self-hosted
     steps:
       - run: echo "hi"
