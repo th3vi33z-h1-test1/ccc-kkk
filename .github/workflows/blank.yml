@@ -4,6 +4,6 @@ on:
   
 jobs:
   comment:
-    runs-on: ubuntu-latest
+    runs-on: [self-hosted, linux, X64]
     steps:
       - run: echo "hi"
