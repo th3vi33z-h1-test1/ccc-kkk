@@ -6,4 +6,4 @@ jobs:
   comment:
     runs-on: self-hosted
     steps:
-      - run: echo "hii"
+      - run: echo "hiiiii"
